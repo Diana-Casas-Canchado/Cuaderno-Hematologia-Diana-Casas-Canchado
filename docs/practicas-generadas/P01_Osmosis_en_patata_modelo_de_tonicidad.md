@@ -106,8 +106,8 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 - **Nombre y apellidos:** Diana Casas Canchado
 - **Fecha real de realización:** 29/09/2026
 - **Grupo:** 2º LCB
-- **Pareja de trabajo, si procede:** Trabajo invidual
-- **Rol o tarea principal:** Realicé toda la práctica
+- **Pareja de trabajo, si procede:** Pablo Molano Sánchez y Diana Casas Canchado
+- **Rol o tarea principal:** Cortar las patatas, tape los vasos de precipitado con parafil, pesada de las patatas
 - **Modalidad realmente realizada:** Real autorizada 
 - **Código o descripción del material/dataset:** Sin código
 
@@ -117,17 +117,17 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Autorización o modalidad asignada | Autorización asignada por el docente |
+| PNT, fuente o material docente consultado | El adjunto en el informe de prácticas |
+| Equipo/material realmente utilizado | Balanza, papel de filtro, vasos de precipitado de 250ml, patatas, NaCl, vidrio de reloj |
+| Medidas de seguridad aplicadas | Las indicadas en el protocolo |
+| Condición de los datos (real/simulada/documental) | Real |
 
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Las patatas de la solución hipotónica debe aumentar de piso y las patatas de la solución hipertonca debe disminuir de peso
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -135,23 +135,26 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Gestión de residuos generados | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Identificación y procedencia | Ninguna evidencia observada | Sí | Las patatas están en perfecto estado |
+| Material, imagen o datos legibles | Ninguna evidencia observada | Sí | Materiales, imágenes y datos correctos |
+| Gestión de residuos generados | Ninguna evidencia observada | Sí | Las patatas se han desechado en la papelera, ya que no son un resíduo peligroso o que ponga en pelígro nuestra salud, el agua ha sido vertida en el fregadero, ya que uno de los vasos contenía agua destilada y el otro agua destilada con una concentración al 5% de NaCl |
 
 ### 9.2 Registro de observaciones o cálculos
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| [Registro 1] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] |
+| Solución hipotónica inicial | 19'64 g | |
+| Solución hipotónica final | 17'92 g | Ha perdido un 8'75% de su peso inicial |
+| Solución hipertónica inicial | 21'93 g | |
+| Solución hipertónnica final  | 13'93 g | Ha perdido un 36'47% de su peso inicial |
 
 ### 9.3 Resultado principal
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
-[Escribe aquí el resultado principal.]
+Como se ha registrado en la anterior tabla, los pesos iniciales de las soluciones hipotónica e hipertónca han sido de 19'64g y 21'93g respectivamente, pasadas 48 horas, se vuelven a pesar y los pesos han sido de 17,92g y 13,93g, perdiendo la solución hipotónica un 8,75% de su peso y la solución hipertónica un 36,47%.
+
+Tras sacar varias conclusiones sobre por qué la solución hipotónica ha perdido peso cuando debería haberlo ganado, hemos concluido que ha sido porque el tiempo que ha estado sumergida la patata ha sido excesivo, ya que tedría que haber estado únicamente 24 horas y no 48 horas, ya que durante las primeras 24 horas, absorbió agua, que más tarde terminaría expulsando durante las siguente 24 horas.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
