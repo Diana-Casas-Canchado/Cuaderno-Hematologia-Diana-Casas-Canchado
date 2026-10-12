@@ -109,13 +109,13 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Diana Casas Canchado
+- **Fecha real de realización:** 06/10/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Pablo Molano Sánchez y Diana Casas Canchado
+- **Rol o tarea principal:** Anotar los resultados y evidencias
+- **Modalidad realmente realizada:** Real autorizada
+- **Código o descripción del material/dataset:** E001026048672
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -123,13 +123,13 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 | Comprobación | Registro |
 |---|---|
-| Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
-| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PNT] |
-| Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
-| Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
-| RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
+| Autorización de muestra real y código anónimo | Autorización docente, código E001026048672 |
+| Procedimiento de centrifugación aplicado | Protocolo OMS  |
+| Evaluación de riesgos y bioseguridad | Sin riesgos y bioseguridad adecuada |
+| Compatibilidad tubo–rotor–centrífuga | Compatible |
+| RCF, tiempo, temperatura y freno aplicados |2000/3000 rpm, 15 mins, 18ºC |
 | Protección, contención y gestión de residuos | [Completa o indica alternativa] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Condición de los datos (real/simulada/documental) | Real |
 
 ### 8.2 Hipótesis u observación inicial
 
@@ -143,20 +143,20 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
-| Integridad del tubo y compatibilidad con rotor/adaptador | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Autorización, código anónimo y procedencia docente | Procedencia docente | Sí |  |
+| Integridad del tubo y compatibilidad con rotor/adaptador | Integridad: en buen estado; Compatibilidad con el adaptador| Sí |  |
+| Parámetros transcritos del PNT o protocolo OMS y equilibrado | Se han transferido las RPM y el tiempo de centrifugación | Sí |  |
+| Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | Sí |  |
 
 ### 9.2 Registro de observaciones o cálculos
 
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
 |---|---|---|---|---|
-| Código anónimo de muestra | [Completa] | [Sin datos del donante] | [Real autorizada] | [Completa] |
-| Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
-| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
-| Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
-| Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
+| Código anónimo de muestra | E001026048672 | Sin datos del donante | Real autorizada |  |
+| Tubo, centrífuga, rotor y adaptador | Todo en correcto estado | Tubo: banco de sangre del SES; resto de componentes son de la marca Nahita (2645) | Real |  |
+| RCF, tiempo, temperatura y freno | 2000/3000 × g /15 min /18 °C | 2000/3000 × g /15 min /18 °C  | Protocolo OMS |  |
+| Aspecto antes y después del giro | tanto antes como después del giro, esta en perfecto estado| Tantos antes como después esta limpia y funciona correctamete | Real | [Completa] |
+| Fases reconocidas y transferencia de plasma | Se diferencian las tres fases estudiadas en clase, la plasmática con tendencia a ser hematocrita, la fase leucocitaria/plaquetaria y la eritrocitaria | Plasma: superor; Leucocitaria: intermedia; Eritrocitaria: inferior | Real |  |
 
 ### 9.3 Resultado principal
 
