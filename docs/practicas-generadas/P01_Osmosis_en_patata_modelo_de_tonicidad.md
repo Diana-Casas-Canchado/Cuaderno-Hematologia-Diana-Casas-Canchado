@@ -221,19 +221,17 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| Las patatas de la inmersión hipotónica ha aumentado su masa | Pasar sumergida en la solución hipotónica 48h | Ninguna, este efecto es irreversible | Sí; se esperaba que al ser una solución hipotónica, aumentara de peso, pero al estar más de 24h sumergida, se ha producido el efecto contrario, perdiendo un 8,75% de su masa inicial |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta el cambio de masa observado en patata mediante la ósmosis y la tonicidad de los medios hipotónico e hipertónico. Explica qué patrón respaldan los datos, usa los controles y evidencias, y reconoce que el tejido vegetal es solo un modelo conceptual. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+Pasadas 48 horas desde que se sumergieron las patatas, se han observado el mismo cambio en ambos medios, las patatas de la solución hipertónica ha perdido un 36,47% de su masa, tal y como se esperaba, en cuanto a la patata de la solución hipotónica, debido a que ha excedido el tiempo de estar sumergida, ha perdido un 8,75% de su masa, provocando el efecto contrario al esperado, ya que pasadas las primeras 24 horas, la patata comienza a liberar todo el agua acumulada y a perder masa.  
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
-
-[Escribe aquí tu conclusión.]
+El tiempo de sumergión es muy importante y si queremos alcanzar los resultados esperados, debemos respetarlos y no excederlos
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -241,11 +239,11 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
-   [Respuesta del alumnado]
+  Todo nos ha resultado fácil
 
-**2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
+**2. Interpretación:** ¿Qué ha ocurrido en la patata tras 48 horas en las diferentes soluciones? ¿Por qué?
 
-   [Respuesta del alumnado]
+La patata de la solución hipotónica ha disminuido de peso por un exceso de tiempo sumergida, y la patata de la solución hipertónica ha disminuido de peso como se esperaba
 
 **3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
 
@@ -253,7 +251,7 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
-   [Respuesta del alumnado]
+La técnica hematológica basada en el principio osmótico es la prueba de fragilidad osmótica de los eritrocitos, un ensayo clínico que evalúa la resistencia de la membrana celular al someter a los glóbulos rojos a soluciones progresivamente hipotónicas de cloruro de sodio (NaCl). Al disminuir la concentración salina externa, el agua se desplaza por ósmosis hacia el interior del eritrocito (que actúa como medio hipertónico), provocando que pierda su forma bicóncava, se hinche hasta volverse esférico y, finalmente, sufra una hemólisis o lisis celular al superar su capacidad elástica. En el laboratorio, esta prueba es fundamental para el diagnóstico de anemias hemolíticas, ya que una hemólisis prematura (fragilidad aumentada) confirma la presencia de esferocitosis hereditaria, mientras que una resistencia celular prolongada (fragilidad disminuida) es indicativa de talasemias o formas celulares en diana que toleran un mayor volumen de agua antes de romperse.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -262,12 +260,13 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | Identificador de práctica | `P01` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Pareja |
+| Modalidad y origen de evidencia | Reales |
+| Materiales, equipo o fuente usados | Reales |
+| Controles | ### 9.1 Comprobación de calidad |
+| Resultado | Como se ha registrado en la anterior tabla, los pesos iniciales de las soluciones hipotónica e hipertónca han sido de 19'64g y 21'93g respectivamente, pasadas 48 horas, se vuelven a pesar y los pesos han sido de 17,92g y 13,93g, perdiendo la solución hipotónica un 8,75% de su peso y la solución hipertónica un 36,47%.
+Tras sacar varias conclusiones sobre por qué la solución hipotónica ha perdido peso cuando debería haberlo ganado, hemos concluido que ha sido porque el tiempo que ha estado sumergida la patata ha sido excesivo, ya que tedría que haber estado únicamente 24 horas y no 48 horas, ya que durante las primeras 24 horas, absorbió agua, que más tarde terminaría expulsando durante las siguente 24 horas. |
+| Interpretación | ## 12 |
+| Incidencias y acciones | ## 11 |
+| Ruta de residuos | Se desechan con normalidad, ya que se asimilan a los urbanos |
+| Estado de entrega | Entregado |
