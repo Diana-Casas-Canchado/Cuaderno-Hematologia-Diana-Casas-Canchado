@@ -100,13 +100,13 @@ El frotis sanguíneo debe proceder de la [preparación P03](P03_Preparacion_exte
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Diana Casas Canchado
+- **Fecha real de realización:** 20/20/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Trabajo individual
+- **Rol o tarea principal:** Realicé todo
+- **Modalidad realmente realizada:** Real autorizada 
+- **Código o descripción del material/dataset:** Sin código
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -116,17 +116,14 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Portaobjetos con frotis P03, puente/gradilla de tinción, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador, pipeta Pasteur solo si el protocolo la requiere] |
-| Equipos | [Microscopio óptico; objetivo utilizado y aceite de inmersión si procede] |
-| Reactivos/materiales | [Kit panóptico rápido nº 1, nº 2 y nº 3; tampón/líquido de aclarado autorizado; EPI según FDS/PNT] |
+| Instrumental | Portaobjetos con frotis P03, puente, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador |
+| Equipos | Microscopio óptico |
+| Reactivos/materiales | Kit panóptico rápido nº 1, nº 2 y nº 3; tampón/líquido de aclarado autorizado; EPI según FDS/PNT |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Material desechable con sangre] | [Biológicos o infecciosos] |
-| [Portaobjetos roto contaminado, si lo hubiera] | [Punzocortantes] |
-| [Residuos no contaminados que el centro permita] | [Urbanos o asimilables a los urbanos] |
-
-Las soluciones de tinción y el papel con restos de reactivo pueden ser residuos químicos peligrosos: no se incluyen en los tres tipos de la tabla y se gestionan por la ruta específica que determinen las FDS y el centro. Escribe «No aplica» en las filas que no correspondan.
+| Frotis sanguíneo | Biológicos  | 
+| Papel absorbente y papel de filtro | Asimilables a los urbanos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -136,9 +133,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [No aplica, salvo cálculo expresamente solicitado por el docente] |
-| Configuración de equipos (si procede) | [Identifica microscopio y objetivo empleados; anota solo la configuración realmente usada y el uso de aceite si procede] |
-| Características del producto o resultado final | [Describe zona de lectura, contraste, fondo, precipitados, artefactos y conservación celular; indica código P03, origen/anticoagulante, modalidad, control disponible e incidencias. No interpretes como diagnóstico.] |
+| Cálculos (si procede) | No aplica |
+| Configuración de equipos (si procede) | objetivo 10x, 40x y 100x |
+| Características del producto o resultado final | Zona de lectura correcta, contraste entre las diferentes células, fondo claro, sin precipitados, sin artefactos y perfecta conservación celular; indica código P03, origen/anticoagulante, modalidad real, control disponible y sin incidencias |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -146,7 +143,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 1 — Materiales
 
-- **Archivo previsto:** `../assets/P04/P04_01_materiales.jpg`
+- **Archivo previsto:** <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/28acce13-0884-4194-af4f-4977e5cd48c6" />
+
 - **Texto alternativo:** Materiales y equipos preparados para la tinción panóptico rápido.
 - **Pie de foto:** [Identifica el kit, los recipientes, el microscopio y el origen de la imagen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -157,7 +155,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 2 — Extensión sanguínea previa a la tinción
 
-- **Archivo previsto:** `../assets/P04/P04_02_extension_previa.jpg`
+- **Archivo previsto:** <img width="2040" height="918" alt="image" src="https://github.com/user-attachments/assets/ff5bbf9d-d512-4b7c-98f6-308ccd3e3841" />
+
 - **Texto alternativo:** Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.
 - **Pie de foto:** [Indica el código no identificativo del frotis, su origen y si la imagen es propia o docente.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -170,7 +169,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_03_inmersion_colorante.jpg`
 - **Texto alternativo:** Portaobjetos con el frotis sumergido en una de las soluciones panópticas.
-- **Pie de foto:** [Indica en cuál de las tres soluciones se realiza la inmersión y el origen de la imagen.]
+- **Pie de foto:** NO REALIZADA
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
 ![Portaobjetos con el frotis sumergido en una de las soluciones panópticas.](../assets/P04/P04_03_inmersion_colorante.jpg)
@@ -181,7 +180,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_04_extension_tenida.jpg`
 - **Texto alternativo:** Extensión sanguínea tras completar la tinción panóptico rápido y el secado.
-- **Pie de foto:** [Describe el aspecto general y la modalidad/origen de la imagen, sin atribuir hallazgos no observados.]
+- **Pie de foto:** NO REALIZADA
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
 ![Extensión sanguínea tras completar la tinción panóptico rápido y el secado.](../assets/P04/P04_04_extension_tenida.jpg)
@@ -190,7 +189,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 5 — Imagen microscópica de eritrocito
 
-- **Archivo previsto:** `../assets/P04/P04_05_eritrocito.jpg`
+- **Archivo previsto:** <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/b133b21a-b7d3-4baa-99cc-435964d42330" />
+
 - **Texto alternativo:** Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Indica si la microfotografía procede de la preparación propia o de material docente autorizado; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -201,7 +201,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 6 — Imagen microscópica de neutrófilo
 
-- **Archivo previsto:** `../assets/P04/P04_06_neutrofilo.jpg`
+- **Archivo previsto:** <img width="918" height="2040" alt="image" src="https://github.com/user-attachments/assets/dcb7a603-4afa-4814-9f74-338ee367c194" />
+
 - **Texto alternativo:** Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -212,7 +213,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 7 — Imagen microscópica de basófilo
 
-- **Archivo previsto:** `../assets/P04/P04_07_basofilo.jpg`
+- **Archivo previsto:** <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/36b09328-43b3-4235-9157-5268f7e7fa0e" />
+
 - **Texto alternativo:** Basófilo observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -223,7 +225,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 8 — Imagen microscópica de eosinófilo
 
-- **Archivo previsto:** `../assets/P04/P04_08_eosinofilo.jpg`
+- **Archivo previsto:** <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a90f0b1-0dca-4417-bc69-adf69fdcfaa0" />
+
 - **Texto alternativo:** Eosinófilo observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -234,7 +237,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 9 — Imagen microscópica de monocito
 
-- **Archivo previsto:** `../assets/P04/P04_09_monocito.jpg`
+- **Archivo previsto:** <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/d2d18bbb-c868-438d-934b-aaa77668b11d" />
+
 - **Texto alternativo:** Monocito observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -245,7 +249,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 10 — Imagen microscópica de linfocito
 
-- **Archivo previsto:** `../assets/P04/P04_10_linfocito.jpg`
+- **Archivo previsto:** <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/53142c5e-3574-4d0e-a248-9dbc8c042f93" />
+
 - **Texto alternativo:** Linfocito observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -256,7 +261,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 ### Imagen 11 — Imagen microscópica de plaqueta
 
-- **Archivo previsto:** `../assets/P04/P04_11_plaqueta.jpg`
+- **Archivo previsto:** <img width="460" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc22deb4-429f-4611-8e76-7bcc7874b04e" />
+
 - **Texto alternativo:** Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
@@ -269,19 +275,22 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias»] |  |  | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Reconocer la secuencia funcional de fijación/tinción y evaluar una preparación por contraste, precipitados, artefactos y zona de lectura. Interpreta los hallazgos usando los controles y evidencias. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+Identifica la secuencia funcional de fijación/tinción y valora la preparación analizando contraste, precipitados, artefactos y zona de lectura.
+Interpreta los hallazgos contrastándolos con los controles y evidencias disponibles.
+Distingue claramente entre observación, cálculo, hipótesis e información no disponible.
+Mantén siempre un enfoque didáctico sin exceder su alcance ni emitir un diagnóstico individual.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿En qué medida el procedimiento aplicado a tu frotis de P03 permitió alcanzar el objetivo de obtener una tinción valorable? Justifica tu valoración a partir del resultado observado y señala la limitación que más condicionó la conclusión.
 
-[Escribe aquí tu conclusión.]
+Todo el procedimiento aplicado en P03 permitió alcanzar el objetivo de la tinción, ya que al realizarse correctamente la extensión sanguínea, las estructuras se han teñido favorablemnte
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -289,19 +298,19 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** Considerando que la técnica exige sumergir el portaobjetos 5 veces durante 1 segundo en cada uno de los tres reactivos, ¿qué consecuencias visuales tendría prolongar o reducir significativamente estos tiempos de inmersión?
 
-   [Respuesta del alumnado]
+   Exceso o carencia de tinción, alterando la observación y dando resultados erroneos
 
 **2. Interpretación:** Teniendo en cuenta que la eosina (Panóptico n.º 2) tiñe de rosáceo las estructuras básicas y el Panóptico n.º 3 tiñe de azulado las estructuras ácidas, ¿qué orgánulos o tipos celulares concretos presentes en la sangre se deberían ver con cada color?
 
-   [Respuesta del alumnado]
+   Los núcleos y citoplasmas
 
 **3. Conclusiones:** Imagina que concluyes que el resultado anómalo se debió a que la sangre era antigua. ¿Qué pruebas o evidencias visuales de tu observación microscópica te permitieron descartar que el error estuviera en una mala ejecución de la extensión sanguínea inicial?
 
-   [Respuesta del alumnado]
+  Múltiples lisis celulares y malformaciones 
 
 **4. Aprendizaje y transferencia:** ¿Qué paso específico del proceso manual (la realización del frotis inicial, tinción, observación) crees que debes seguir perfeccionando para asegurar el éxito en futuras extensiones sanguíneas?
 
-   [Respuesta del alumnado]
+  La tinción, aunque se haga el frotis correctamente, si no se tiñe adecuadamente, todo se hace para nada.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -310,12 +319,12 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | Identificador de práctica | `P04` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD1 / RA01 / CE01.c, CE01.d, CE01.f` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento |Individual  |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
+| Resultado | ### 9.1 |
+| Interpretación | ## 12 |
+| Incidencias y acciones | ## 11 |
 | Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado  |
