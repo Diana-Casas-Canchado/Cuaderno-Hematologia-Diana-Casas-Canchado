@@ -108,13 +108,13 @@ Consulta de las referencias enlazadas: **12/10/2026**. No se ha identificado un 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada — excedente EDTA / real autorizada — sangre capilar propia / demostración / simulada / documental; describe]
-- **Origen y código docente de la muestra:** [Laboratorio/banco de sangre o propia; código no identificativo, sin datos clínicos]
+- **Nombre y apellidos:** Diana Casas Canchado
+- **Fecha real de realización:** 15/10/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Trabajo individual
+- **Rol o tarea principal:** Me pinché el dedo, rellené el capilar y realicé la extensión
+- **Modalidad realmente realizada:** Real autorizada — sangre capilar propia 
+- **Origen y código docente de la muestra:** Propia; código no identificativo, sin datos clínicos
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -124,13 +124,15 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera microscopio u otros equipos realmente autorizados; si no usas ninguno, «No aplica»] |
-| Reactivos/materiales | [Portaobjetos, extensor, material de transferencia autorizado, muestra aprobada, guantes, antiséptico si procede y material de limpieza] |
+| Instrumental |Lanceta desechable |
+| Equipos | No aplica |
+| Reactivos/materiales | Portaobjetos, extensor, material de transferencia autorizado, muestra aprobada, guantes y alcohol 70ºC |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Extensor | Punzocortantes |
+| Lanceta  | Punzocortante  |
+| Capilar  | Biosanitario cortopunzante |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -140,9 +142,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Número de extensiones y comparación de longitud, grosor, homogeneidad, estrías, agujeros y borde de pluma; origen y límites] |
+| Cálculos (si procede) | No procede |
+| Configuración de equipos (si procede) | No procede |
+| Características del producto o resultado final | 7 extensiones, longitud desde donde se depositó la gota hasta el centro del portaobjetos, grosor fino, homogeneidad correcta, sin estrías,  sin agujeros y borde de pluma; origen propio y sin límites |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -150,46 +152,46 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ### Imagen 1 — Materiales y preparación inicial
 
-- **Archivo previsto:** `../assets/P03/P03_01_preparacion.jpg`
+- **Archivo previsto:** <img width="2040" height="918" alt="image" src="https://github.com/user-attachments/assets/aeeff4b8-8222-46b8-a958-f7fb7c25b422" />
 - **Texto alternativo:** Documenta los materiales y la preparación inicial de la actividad asignada.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** Imagen autorizada 
 
 *Figura 1. ¿Qué materiales, fuente o condición se prepararon? Indica su procedencia y modalidad.*
 
 ### Imagen 2 — Portaobjetos correctamente rotulado
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_02_identificacion.jpg`
+- **Archivo previsto para el alumnado:** <img width="918" height="2040" alt="image" src="https://github.com/user-attachments/assets/fe0a64b5-7b34-4ca9-8462-1a8f2dfb166a" />
 - **Texto alternativo:** Portaobjetos del alumno rotulado con código de práctica, fecha y nombre o iniciales antes de añadir sangre.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** Imagen autorizada
 
 *Figura 2. Comprueba que el portaobjetos incluye código de práctica, fecha y nombre o iniciales del alumno.*
 
 ### Imagen 3 — Gota de sangre en el portaobjetos
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_03_gota_porta.jpg`
+- **Archivo previsto para el alumnado:** <img width="918" height="2040" alt="image" src="https://github.com/user-attachments/assets/c04c939a-6d7c-47b1-9001-4e5cf6c9dab1" />
 - **Texto alternativo:** Vista superior de una gota pequeña de sangre cerca de un extremo del portaobjetos, con espacio para colocar el extensor.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** Imagen autorizada
 
 *Figura 3. Valora la posición y el volumen de la gota para que se distribuya por el borde extensor.*
 
 ### Imagen 4 — Colocación y angulación del extensor
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_04_angulacion_extensor.jpg`
+- **Archivo previsto para el alumnado:** <img width="918" height="2040" alt="image" src="https://github.com/user-attachments/assets/ebd5a224-89cb-47f4-9dbb-ad04ad2ce5aa" />
 - **Texto alternativo:** Vista lateral del portaobjetos extensor inclinado entre 30 y 45 grados, con su borde en contacto con la gota del porta base.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** Imagen autorizada 
 
 *Figura 4. Observa cómo se apoya el borde del extensor sobre la gota con un ángulo de 30–45°.*
 
 ### Imagen 5 — Extensión final obtenida
 
-- **Archivo previsto para el alumnado:** `../assets/P03/P03_05_extension_final.jpg`
+- **Archivo previsto para el alumnado:** <img width="2040" height="918" alt="image" src="https://github.com/user-attachments/assets/2636e84c-5893-4f0f-9ca3-1c720125274d" />
 - **Texto alternativo:** Extensión sanguínea seca en cuña obtenida por el alumno, fotografiada completa para mostrar su cuerpo y borde de pluma.
 - **Pie de foto:** [Describe lo que se observa en Preparación de extensión sanguínea, el momento, el origen/modalidad y qué conclusión limitada apoya.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** Imagen autorizada 
 
 *Figura 5. Describe la extensión real obtenida y documenta sus características y defectos.*
 
@@ -199,19 +201,19 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias |  | | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Compara tus extensiones y justifica cuál presenta mejor calidad técnica y qué defectos observas. Relaciona la valoración con el origen de la sangre, la técnica y las evidencias. No formules diagnóstico ni afirmes validez clínica.
 
-[Escribe aquí tu interpretación técnica.]
+Después de realizar 7 extensiones, la que mejor calidad técnica presenta es la última
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Valora razonadamente si alcanzaste el objetivo, conectando la calidad observada con el procedimiento y la evidencia registrada. Explica las limitaciones de la fuente y de la modalidad realmente realizada.
 
-[Escribe aquí tu conclusión.]
+Si, porque he conseguido una extensión uniforme y lista para la observación al microscopio
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -219,19 +221,19 @@ Responde individualmente y relaciona tus respuestas con las observaciones e imá
 
 **1. Procedimiento:** ¿Qué decisiones sobre la técnica realizada (localización de la gota, volumen de la gota, inclinación del portaobjetos extensor, apoyo y fuerza del portaobjetos extensor, velocidad del movimiento extensor) influyeron más en la calidad del trabajo y cómo lo comprobaste?
 
-   [Respuesta del alumnado]
+   Influye más la inclinación del portaobjetos, porque si no se posiciona correctamente, la extensión se hará con errores, aunque algo que también influye mucho es la fuerza ejercida  y la velocidad, ya que si ambos son incorrectos, la extensión tendrá estrías que dificultarán la visualización
 
 **2. Interpretación:** ¿Por qué es importante realizar una extensión correcta?
 
-   [Respuesta del alumnado]
-
+  Para que la visualización al microscopio sea correcta y no haya errores de recuentos celulares
+  
 **3. Conclusiones:** ¿Qué zona es la más importante de toda la extensión y por qué?
 
-   [Respuesta del alumnado]
-
+  El cuerpo, porque es la zona óptica de la extensión y donde se encuentran mejor repartidos todos los componentes celulares
+  
 **4. Aprendizaje y transferencia:** ¿Qué mejorarías?
 
-   [Respuesta del alumnado]
+   La velocidad y la fuerza ejercida
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -240,12 +242,12 @@ Responde individualmente y relaciona tus respuestas con las observaciones e imá
 | Identificador de práctica | `P03` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD1 / RA01 / CE01.b, CE01.f` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
+| Agrupamiento | Individual |
+| Modalidad y origen de evidencia | Real autorizada |
+| Materiales, equipo o fuente usados | No aplica |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Resultado | (###-9-1-registro-de-observaciones-y-cálculos) |
+| Interpretación | (##-12-interpretación-técnica) |
+| Incidencias y acciones | (##-11-incidencias-errores-y-medidas-correctoras) |
+| Ruta de residuos | Desechados en el contenedor amarillo |
+| Estado de entrega | Entregado |
